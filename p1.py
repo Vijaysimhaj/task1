@@ -4,3 +4,4 @@ def fun(x,y):
 x=int(input("enter the value of x"))
 y=int(input("enter the value of y"))
 fun(x,y)
+print("hello my name is vijay simha j")
